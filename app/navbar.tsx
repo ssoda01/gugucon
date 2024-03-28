@@ -8,8 +8,8 @@ import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline';
 import Image from 'next/image';
 
 const navigation = [
-  { name: 'Dashboard', href: '/' },
-  { name: 'Playground', href: '/playground' }
+  { name: 'GOOGOOCOO', href: '/' },
+  // { name: 'Playground', href: '/playground' }
 ];
 
 function classNames(...classes: string[]) {

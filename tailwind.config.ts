@@ -1,3 +1,4 @@
+import colors from 'tailwindcss/colors'
 import type { Config } from 'tailwindcss';
 
 export default {
@@ -14,11 +15,11 @@ export default {
         // light mode
         tremor: {
           brand: {
-            faint: '#eff6ff', // blue-50
-            muted: '#bfdbfe', // blue-200
-            subtle: '#60a5fa', // blue-400
-            DEFAULT: '#3b82f6', // blue-500
-            emphasis: '#1d4ed8', // blue-700
+            faint: colors.black[50], // blue-50
+            muted: colors.black[200], // blue-200
+            subtle: colors.black[400], // blue-400
+            DEFAULT: colors.black[500], // blue-500
+            emphasis: colors.black[700], // blue-700
             inverted: '#ffffff' // white
           },
           background: {
