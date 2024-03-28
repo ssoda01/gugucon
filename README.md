@@ -2,7 +2,7 @@
 
 `GOOGOOCOO` 一个狂野的大鹅头像生成器
 
-线上请戳 [goocoo.vercel.app](goocoo.vercel.app)
+线上请戳 [🔗 Link 🪿](https://goocoo.vercel.app/)
 
 ~~为了在变幻的世界里寻找一些不变的东西，所以目前眼睛是不动的~~
 
